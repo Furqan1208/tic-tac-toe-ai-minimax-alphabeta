@@ -32,4 +32,4 @@ An optimization to Minimax that skips evaluating branches that won’t affect th
 
 ```bash
 # Run the game (example entry point)
-python tic_tac_toe.py
+python Min_Max.py
